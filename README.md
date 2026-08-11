@@ -25,7 +25,16 @@ Features usadas: `age`, `trestbps`, `chol`, `thalach`, `oldpeak`, `ca`.
 
 ## Evidencia de SageMaker
 
+**Entorno:** Notebook instance de Amazon SageMaker, kernel `conda_python3`.
+
 El modelo se entrenó y probó dentro de un notebook de Amazon SageMaker (AWS Academy). Solo se usó para entrenamiento y prueba — no se creó ni desplegó ningún endpoint. Los resultados fueron consistentes con la ejecución local.
 
-![alt text](img/1.png)
-![alt text](img/2.png)
+**Entrenamiento:**
+![Métricas de prueba](img/2.png)
+
+**Coeficientes:**
+![Entrenamiento](img/1.png)
+
+
+**Predicciones y métricas:**
+![Coeficientes del modelo](img/3.png)
