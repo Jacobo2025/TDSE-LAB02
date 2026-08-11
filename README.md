@@ -10,7 +10,7 @@ Este proyecto implementa regresión logística desde cero (sin scikit-learn para
 
 ## Dataset
 
-Heart Disease Dataset (Kaggle): https://www.kaggle.com/datasets/neurocipher/heartdisease
+Heart Disease Dataset (Kaggle): [https://www.kaggle.com/datasets/neurocipher/heartdisease](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
 Features usadas: `age`, `trestbps`, `chol`, `thalach`, `oldpeak`, `ca`.
 
